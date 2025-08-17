@@ -1,4 +1,4 @@
-# Ubuntu-Organics-Portfolio-Project
+# Ubuntu Organics Portfolio Project
 
 # Project Background
 
