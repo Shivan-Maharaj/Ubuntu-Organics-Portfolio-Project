@@ -1,0 +1,31 @@
+product_id;product_name;category;selling_price;product_cost;launch_date
+P001;Pre-Workout Formula;Supplements; R147,52 ; R81,87 ;2025/09/06
+P002;SPF 50 Sunscreen;Skincare; R365,12 ; R190,04 ;2025/04/17
+P003;Anti-Frizz Serum;Haircare; R265,18 ; R154,97 ;2025/10/14
+P004;Daily Multivitamin;Supplements; R278,02 ; R151,95 ;2025/12/13
+P005;Hair Growth Oil;Haircare; R150,42 ; R81,19 ;2025/06/13
+P006;Leave-In Hair Mist;Haircare; R897,09 ; R529,14 ;2025/03/26
+P007;Benchpress Bench and Bar;Fitness Gear; R1 637,92 ; R821,09 ;2025/01/11
+P008;Exfoliating Scrub;Skincare; R1 426,46 ; R810,30 ;2025/09/10
+P009;SPF 50 Sunscreen;Skincare; R509,10 ; R332,29 ;2025/03/27
+P010;Plant-Based Protein;Supplements; R276,22 ; R143,45 ;2025/11/11
+P011;Pull-up Set;Fitness Gear; R1 247,08 ; R824,85 ;2025/03/04
+P012;Athliesure Wear;Apparel; R1 118,83 ; R777,17 ;2025/04/18
+P013;Running Shoes;Apparel; R249,72 ; R139,50 ;2025/05/11
+P014;Argan Oil Shampoo;Haircare; R1 782,36 ; R1 020,09 ;2025/02/07
+P015;Anti-Aging Night Cream;Skincare; R1 438,69 ; R732,53 ;2025/04/13
+P016;SPF 50 Sunscreen;Skincare; R1 568,83 ; R1 093,54 ;2025/07/28
+P017;Gentle Facial Cleanser;Skincare; R1 746,32 ; R1 005,92 ;2025/08/03
+P018;Weight-Lifting Shoes;Apparel; R1 307,80 ; R749,33 ;2025/12/10
+P019;Grip Strength Tool;Fitness Gear; R775,01 ; R491,38 ;2025/10/01
+P020;Pre-Workout Formula;Supplements; R1 257,35 ; R671,71 ;2025/03/30
+P021;Exfoliating Scrub;Skincare; R410,46 ; R236,38 ;2025/11/29
+P022;Volumizing Spray;Haircare; R517,27 ; R292,18 ;2025/04/18
+P023;Daily Multivitamin;Supplements; R535,19 ; R271,03 ;2025/03/05
+P024;Resistance Bands;Fitness Gear; R862,21 ; R442,52 ;2025/09/18
+P025;Scalp Detox Scrub;Haircare; R1 765,10 ; R993,64 ;2025/09/09
+P026;Tracksuit;Apparel; R851,70 ; R581,63 ;2025/03/08
+P027;Sweatband;Apparel; R371,46 ; R196,10 ;2025/03/05
+P028;Hair Growth Oil;Haircare; R1 124,06 ; R729,97 ;2025/12/26
+P029;Tennis Outfit;Apparel; R1 805,86 ; R1 047,18 ;2025/03/27
+P030;Vitamin C Serum;Skincare; R1 994,92 ; R1 052,65 ;2025/10/29

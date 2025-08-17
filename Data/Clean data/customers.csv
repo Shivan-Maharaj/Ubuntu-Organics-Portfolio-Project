@@ -1,0 +1,1201 @@
+customer_id;name;signup_date;region;acquisition_channel
+C0001;Derek Clark;2025/11/09;Northern Cape;Meta
+C0002;Emily Rios;2025/08/09;Gauteng;Meta
+C0003;Maria Thomas;2025/06/03;KwaZulu-Natal;Google
+C0004;Justin Baker;2025/02/24;Mpumalanga;Referral
+C0005;Kevin Cox;2025/08/16;Western Cape;Newsletter
+C0006;Ann Williams;2025/02/23;Mpumalanga;Referral
+C0007;Christopher Becker;2025/02/12;Northern Cape;Referral
+C0008;James Ferrell;2025/08/20;Free State;Referral
+C0009;Juan Dunlap;2025/07/25;Gauteng;Meta
+C0010;Melanie Herrera;2025/09/22;North West;Influencer
+C0011;Gina Carter;2025/04/14;Limpopo;Meta
+C0012;Troy Liu;2025/03/03;Free State;Newsletter
+C0013;Pamela Romero;2025/04/13;KwaZulu-Natal;Newsletter
+C0014;Elizabeth Fowler;2025/02/11;Gauteng;Influencer
+C0015;James Martin;2025/08/25;North West;Google
+C0016;Tamara George;2025/10/30;North West;Meta
+C0017;Timothy Koch;2025/07/09;Free State;Referral
+C0018;Cynthia Allen;2025/11/19;Eastern Cape;Google
+C0019;Angelica Tucker;2025/08/09;Limpopo;Google
+C0020;Kim Martinez;2025/01/27;North West;Referral
+C0021;Joshua Baker;2025/09/14;Gauteng;Referral
+C0022;Tracey Hickman;2025/12/05;Limpopo;Newsletter
+C0023;Christina Collins;2025/10/21;Gauteng;Meta
+C0024;Jessica Holmes;2025/09/18;Limpopo;Influencer
+C0025;Austin Smith;2025/02/16;Eastern Cape;Meta
+C0026;Daniel Jones;2025/08/04;Eastern Cape;Referral
+C0027;Austin Johnson;2025/09/03;Western Cape;Meta
+C0028;David Caldwell;2025/05/09;Northern Cape;Meta
+C0029;Miranda Khan;2025/03/25;North West;Google
+C0030;Richard Aguirre;2025/08/12;KwaZulu-Natal;Newsletter
+C0031;Matthew Gomez;2025/03/15;North West;Google
+C0032;Nicholas Nunez;2025/06/09;Free State;Referral
+C0033;James Morgan;2025/09/08;Mpumalanga;Google
+C0034;Corey Herrera;2025/12/01;North West;Google
+C0035;Donald Wright;2025/02/24;Free State;Newsletter
+C0036;Robert Chase;2025/12/25;Limpopo;Newsletter
+C0037;Zachary Huff;2025/02/08;North West;Newsletter
+C0038;Sarah Martin;2025/02/06;Western Cape;Google
+C0039;Dr. Steven Martin;2025/07/08;Eastern Cape;Meta
+C0040;Mrs. Rachel Gibson;2025/01/01;Limpopo;Meta
+C0041;Monica Logan;2025/06/14;North West;Google
+C0042;Brittney Phillips;2025/09/15;Eastern Cape;Meta
+C0043;Kimberly Adkins;2025/01/23;Western Cape;Meta
+C0044;John Calhoun;2025/01/23;Eastern Cape;Meta
+C0045;Tyler Miller;2025/07/26;Gauteng;Influencer
+C0046;Barry Hensley;2025/03/14;Western Cape;Referral
+C0047;Steve Sanchez;2025/06/06;Eastern Cape;Influencer
+C0048;Bradley Sandoval;2025/08/19;Northern Cape;Google
+C0049;Taylor Harris;2025/08/08;North West;Google
+C0050;Derek Anderson;2025/10/06;Northern Cape;Google
+C0051;Eugene Walton;2025/09/08;Northern Cape;Newsletter
+C0052;Marc Hart;2025/01/29;Eastern Cape;Meta
+C0053;Daniel Baker;2025/02/08;Western Cape;Newsletter
+C0054;Benjamin Sanchez;2025/12/29;Limpopo;Newsletter
+C0055;Roy Warner;2025/04/21;Mpumalanga;Newsletter
+C0056;Dr. Kendra Contreras;2025/08/26;Gauteng;Meta
+C0057;Matthew Mcmillan;2025/08/04;Gauteng;Newsletter
+C0058;Steve Newton;2025/02/22;Limpopo;Meta
+C0059;Larry Robbins;2025/03/02;Eastern Cape;Google
+C0060;Sarah Wagner;2025/03/21;Eastern Cape;Referral
+C0061;Sarah Davis;2025/04/08;Northern Cape;Google
+C0062;Amanda Cook;2025/06/14;Mpumalanga;Google
+C0063;Deborah Figueroa;2025/02/20;Free State;Newsletter
+C0064;Kristina Rodriguez;2025/08/03;Eastern Cape;Meta
+C0065;Brittany Johnson;2025/12/09;Northern Cape;Referral
+C0066;Brittany Anderson;2025/05/24;Western Cape;Meta
+C0067;Timothy Stanton;2025/04/30;North West;Meta
+C0068;Christine Wright;2025/01/16;Western Cape;Google
+C0069;Justin Baxter;2025/02/09;KwaZulu-Natal;Newsletter
+C0070;Tammy Young;2025/08/30;Northern Cape;Newsletter
+C0071;Rita Keith;2025/03/05;Eastern Cape;Newsletter
+C0072;Tim Patton;2025/01/10;Gauteng;Google
+C0073;Sharon Cochran;2025/06/09;Mpumalanga;Meta
+C0074;Michael Reyes;2025/04/14;Mpumalanga;Influencer
+C0075;Courtney Velasquez;2025/01/16;Northern Cape;Influencer
+C0076;Robert Savage;2025/06/28;Mpumalanga;Referral
+C0077;Corey Murphy;2025/03/28;Northern Cape;Google
+C0078;Raymond Bell;2025/12/02;Eastern Cape;Influencer
+C0079;William Herrera;2025/07/17;Eastern Cape;Meta
+C0080;Wesley White;2025/01/11;North West;Meta
+C0081;Kyle Reed;2025/04/14;Limpopo;Meta
+C0082;Larry Dixon;2025/11/02;Gauteng;Referral
+C0083;Cheryl Williams;2025/05/30;Northern Cape;Referral
+C0084;Timothy Ryan;2025/06/19;North West;Google
+C0085;Nancy Gonzalez;2025/10/07;Gauteng;Referral
+C0086;Matthew Rivera;2025/06/17;Western Cape;Google
+C0087;Belinda Mccullough;2025/05/02;Western Cape;Referral
+C0088;Jason Powell;2025/07/16;Western Cape;Google
+C0089;Cheryl Ortega;2025/04/25;Mpumalanga;Meta
+C0090;Stephanie Gilbert;2025/05/28;Eastern Cape;Referral
+C0091;Roy Torres;2025/04/27;Gauteng;Referral
+C0092;Kevin Pena;2025/03/23;Western Cape;Newsletter
+C0093;Michael Dixon;2025/06/30;North West;Influencer
+C0094;Rebecca Jackson;2025/11/05;Free State;Google
+C0095;Matthew Harvey;2025/02/02;Limpopo;Google
+C0096;Nicole Chambers;2025/02/06;Free State;Newsletter
+C0097;Brittany Williams;2025/03/29;KwaZulu-Natal;Influencer
+C0098;Patricia Gibson;2025/07/04;Northern Cape;Influencer
+C0099;Cheyenne Horton;2025/12/11;Western Cape;Meta
+C0100;Charles Watts;2025/07/11;Northern Cape;Referral
+C0101;Patricia Rodriguez;2025/12/13;Western Cape;Meta
+C0102;Robert Dominguez;2025/06/15;North West;Google
+C0103;David Charles;2025/06/30;North West;Influencer
+C0104;John Schmidt;2025/06/27;KwaZulu-Natal;Influencer
+C0105;Tiffany Vance;2025/08/06;Western Cape;Google
+C0106;Stephanie Simmons;2025/08/26;Limpopo;Influencer
+C0107;Stephanie Manning;2025/12/19;KwaZulu-Natal;Newsletter
+C0108;Paul Larsen;2025/07/04;North West;Influencer
+C0109;Kelly Sims;2025/04/18;North West;Meta
+C0110;Micheal Young;2025/04/17;North West;Influencer
+C0111;Joshua Taylor;2025/05/11;Western Cape;Google
+C0112;Christian Lewis;2025/03/31;Free State;Meta
+C0113;Joshua Perry;2025/06/11;Western Cape;Referral
+C0114;Jean Carrillo;2025/03/22;KwaZulu-Natal;Influencer
+C0115;Spencer Johnston;2025/09/28;Free State;Referral
+C0116;Guy Molina;2025/07/05;Eastern Cape;Influencer
+C0117;Sara Medina;2025/11/28;Eastern Cape;Influencer
+C0118;Lindsey Walker;2025/10/13;North West;Newsletter
+C0119;John Price;2025/03/27;Free State;Meta
+C0120;Jennifer Martin;2025/09/17;Western Cape;Newsletter
+C0121;Veronica Ferguson;2025/07/01;Free State;Meta
+C0122;Justin Johnson;2025/12/19;Gauteng;Influencer
+C0123;Sean White;2025/09/07;KwaZulu-Natal;Influencer
+C0124;Daniel Murphy;2025/04/12;KwaZulu-Natal;Newsletter
+C0125;Diana Bean;2025/10/23;North West;Newsletter
+C0126;Bradley Smith;2025/06/13;North West;Meta
+C0127;Trevor Walker;2025/07/29;Western Cape;Meta
+C0128;Marissa Webster;2025/01/27;KwaZulu-Natal;Referral
+C0129;Alex Hernandez;2025/04/07;Gauteng;Influencer
+C0130;Brian Gould;2025/02/19;North West;Google
+C0131;Pamela Jackson;2025/06/30;Mpumalanga;Google
+C0132;Michelle Strickland;2025/08/24;Gauteng;Influencer
+C0133;Ashley Johnson;2025/03/05;Limpopo;Meta
+C0134;Susan Brooks;2025/05/02;Limpopo;Google
+C0135;Kevin Rivas;2025/10/05;Eastern Cape;Meta
+C0136;Raymond Jefferson;2025/04/05;Limpopo;Referral
+C0137;Rebecca Knight;2025/08/22;Mpumalanga;Referral
+C0138;Jeffrey Wood;2025/01/16;KwaZulu-Natal;Google
+C0139;Alexandria Fisher;2025/07/16;KwaZulu-Natal;Google
+C0140;Tyler Reid;2025/07/10;Mpumalanga;Meta
+C0141;Christian Thompson;2025/11/18;KwaZulu-Natal;Influencer
+C0142;Debra Morton;2025/07/22;Mpumalanga;Google
+C0143;Julie Petersen;2025/07/29;Free State;Google
+C0144;Samuel Rivas;2025/08/19;Western Cape;Newsletter
+C0145;Jerry Christensen;2025/02/03;Gauteng;Newsletter
+C0146;Jamie Johnson;2025/08/10;Eastern Cape;Google
+C0147;John Kelly;2025/11/27;Northern Cape;Influencer
+C0148;Spencer Haynes;2025/04/11;Free State;Google
+C0149;Kellie Lee;2025/04/18;Eastern Cape;Meta
+C0150;Katherine Chang;2025/04/04;Eastern Cape;Newsletter
+C0151;Michael West;2025/09/26;Limpopo;Influencer
+C0152;Daniel Holt;2025/01/07;Western Cape;Influencer
+C0153;Jackie Tran;2025/04/29;Limpopo;Referral
+C0154;Patrick Rivera;2025/05/14;Mpumalanga;Referral
+C0155;Eric Hall;2025/09/30;Limpopo;Meta
+C0156;Bryan Herrera;2025/10/08;Western Cape;Influencer
+C0157;Cheryl Rodgers;2025/10/24;KwaZulu-Natal;Referral
+C0158;Vanessa Warren;2025/04/18;Free State;Meta
+C0159;Dr. Elizabeth Ward;2025/04/20;Western Cape;Referral
+C0160;Joseph Hill;2025/04/28;Mpumalanga;Influencer
+C0161;Melissa Martinez;2025/01/22;Limpopo;Newsletter
+C0162;Ashley Smith;2025/12/04;North West;Meta
+C0163;Jeremiah Lopez;2025/04/21;Mpumalanga;Referral
+C0164;Scott Wilson;2025/01/20;Eastern Cape;Influencer
+C0165;Benjamin Soto;2025/01/26;Gauteng;Newsletter
+C0166;Robert Avery;2025/01/21;Gauteng;Referral
+C0167;Bailey Duran DDS;2025/02/03;North West;Google
+C0168;Patricia James;2025/11/04;Limpopo;Newsletter
+C0169;Scott Branch;2025/12/19;Western Cape;Influencer
+C0170;Amy Choi;2025/04/29;Limpopo;Meta
+C0171;Christine Clark;2025/02/08;Free State;Referral
+C0172;David Arnold;2025/09/14;Free State;Newsletter
+C0173;Jerry Wheeler;2025/03/02;Limpopo;Newsletter
+C0174;Dwayne Campbell;2025/04/24;Free State;Referral
+C0175;Michael Bradshaw;2025/11/30;KwaZulu-Natal;Google
+C0176;Leah Lara;2025/11/02;Mpumalanga;Newsletter
+C0177;Joshua Holland;2025/03/18;KwaZulu-Natal;Referral
+C0178;Charles Brown;2025/12/19;Free State;Newsletter
+C0179;Paul Carroll;2025/11/04;North West;Meta
+C0180;John Torres;2025/04/23;Free State;Influencer
+C0181;Kathryn Snyder;2025/06/06;Eastern Cape;Newsletter
+C0182;Stacy Navarro;2025/02/01;Limpopo;Newsletter
+C0183;Brandon Hayden;2025/08/23;Northern Cape;Newsletter
+C0184;Laurie Smith;2025/11/21;Eastern Cape;Referral
+C0185;Debra Williams;2025/10/25;Northern Cape;Google
+C0186;Joseph Ramos;2025/10/21;Western Cape;Influencer
+C0187;Kevin Walters;2025/04/19;North West;Referral
+C0188;Julie Ortiz;2025/07/10;Limpopo;Meta
+C0189;Shannon Rivera;2025/05/05;Eastern Cape;Influencer
+C0190;Matthew Morales DDS;2025/09/27;Eastern Cape;Google
+C0191;Ernest Morris;2025/01/15;KwaZulu-Natal;Meta
+C0192;Jose Travis;2025/10/28;Gauteng;Google
+C0193;Julia Brown;2025/09/13;Northern Cape;Referral
+C0194;Peter Garrett;2025/07/21;Western Cape;Newsletter
+C0195;Derek Anderson;2025/10/23;Mpumalanga;Referral
+C0196;Michael Martinez;2025/04/22;Eastern Cape;Newsletter
+C0197;Cynthia Moore;2025/09/02;Northern Cape;Newsletter
+C0198;Jason Walker;2025/08/02;Eastern Cape;Google
+C0199;Julia Wilson;2025/11/23;Gauteng;Meta
+C0200;Timothy Carter;2025/11/20;Mpumalanga;Google
+C0201;Ruben Baird;2025/10/01;KwaZulu-Natal;Referral
+C0202;Charles Lee;2025/04/05;Northern Cape;Meta
+C0203;Sherry Shields;2025/08/21;North West;Google
+C0204;Sarah Morgan;2025/04/18;Western Cape;Newsletter
+C0205;Samantha Campbell;2025/11/02;KwaZulu-Natal;Newsletter
+C0206;Lauren Keller;2025/04/26;North West;Referral
+C0207;Joshua Reed;2025/12/03;Limpopo;Newsletter
+C0208;Jamie Cantu;2025/08/03;North West;Newsletter
+C0209;Michael Armstrong;2025/12/04;North West;Newsletter
+C0210;Jennifer Flores;2025/04/01;KwaZulu-Natal;Newsletter
+C0211;Roberta Hughes;2025/07/03;Northern Cape;Influencer
+C0212;Marissa Hernandez;2025/09/15;Eastern Cape;Influencer
+C0213;Vincent Rivera;2025/01/15;North West;Newsletter
+C0214;Jessica Fox;2025/02/08;Eastern Cape;Influencer
+C0215;Charles Pitts;2025/06/27;Northern Cape;Meta
+C0216;Richard Baker;2025/03/01;Free State;Google
+C0217;Marie Christian;2025/08/31;Free State;Influencer
+C0218;Kimberly Finley;2025/11/28;Limpopo;Referral
+C0219;Olivia Brennan;2025/09/01;Western Cape;Google
+C0220;Cynthia Cohen;2025/01/14;KwaZulu-Natal;Google
+C0221;Nicole Hamilton MD;2025/04/22;Mpumalanga;Google
+C0222;Ashlee Jackson;2025/09/04;Eastern Cape;Meta
+C0223;Amber Flynn;2025/04/27;Mpumalanga;Newsletter
+C0224;Jeffrey Sanchez;2025/04/24;Limpopo;Referral
+C0225;Rebecca Jackson;2025/06/10;Northern Cape;Newsletter
+C0226;Janet Vega;2025/01/31;Gauteng;Google
+C0227;Briana Murray;2025/07/13;Mpumalanga;Newsletter
+C0228;Michael Nolan;2025/04/09;Gauteng;Referral
+C0229;Megan Moore;2025/06/30;Mpumalanga;Newsletter
+C0230;Victoria Evans;2025/06/21;Gauteng;Influencer
+C0231;Joyce Turner;2025/06/14;Free State;Newsletter
+C0232;Ashley James;2025/05/30;Mpumalanga;Referral
+C0233;Wendy Phillips;2025/05/20;North West;Referral
+C0234;Denise Knight;2025/11/19;Eastern Cape;Newsletter
+C0235;Valerie Lozano;2025/09/24;Eastern Cape;Influencer
+C0236;Tanner Mitchell DDS;2025/10/17;Mpumalanga;Newsletter
+C0237;Colleen Lee;2025/08/24;Gauteng;Newsletter
+C0238;Michelle Hopkins;2025/04/08;Limpopo;Newsletter
+C0239;Brent Burton;2025/11/22;KwaZulu-Natal;Newsletter
+C0240;Jeremiah Riley;2025/01/16;KwaZulu-Natal;Referral
+C0241;Theodore Murphy;2025/10/12;North West;Meta
+C0242;Carlos Ryan;2025/06/11;Mpumalanga;Referral
+C0243;Susan Rivas;2025/05/23;Gauteng;Meta
+C0244;Terry Coffey;2025/04/10;Mpumalanga;Google
+C0245;Gina Wilson;2025/04/25;Northern Cape;Google
+C0246;Vincent Dalton;2025/01/30;Gauteng;Influencer
+C0247;Jennifer Singleton;2025/10/09;Mpumalanga;Influencer
+C0248;Richard Smith;2025/08/05;Eastern Cape;Newsletter
+C0249;Jacob Curry;2025/07/28;Limpopo;Influencer
+C0250;Samantha Bentley;2025/04/12;Mpumalanga;Influencer
+C0251;Kaitlyn Harvey;2025/02/12;Mpumalanga;Influencer
+C0252;Leonard Holland;2025/08/07;Western Cape;Newsletter
+C0253;Susan Turner;2025/09/04;Gauteng;Referral
+C0254;Andrew Johnson;2025/06/08;Gauteng;Influencer
+C0255;David Medina;2025/07/11;Eastern Cape;Meta
+C0256;Michael Paul;2025/05/31;Gauteng;Meta
+C0257;Patrick Moore;2025/07/29;Eastern Cape;Google
+C0258;Sandra Gilbert;2025/06/11;Gauteng;Referral
+C0259;Jacob Ramos;2025/04/19;KwaZulu-Natal;Google
+C0260;Ariana Jennings;2025/04/02;KwaZulu-Natal;Newsletter
+C0261;Maria Brown;2025/07/31;Western Cape;Referral
+C0262;Bryan Charles;2025/04/18;Eastern Cape;Newsletter
+C0263;Daniel Fowler;2025/06/26;Free State;Influencer
+C0264;Gavin Zhang;2025/01/09;KwaZulu-Natal;Referral
+C0265;Andrea Hubbard;2025/11/02;Western Cape;Google
+C0266;Robin Hall;2025/03/22;Free State;Meta
+C0267;Steven Smith;2025/10/28;Gauteng;Influencer
+C0268;Dr. Kimberly Lindsey;2025/11/30;Mpumalanga;Newsletter
+C0269;Allison Smith;2025/02/12;Eastern Cape;Meta
+C0270;Leah Smith;2025/11/03;Eastern Cape;Meta
+C0271;Patrick Fox;2025/04/14;Free State;Referral
+C0272;Jerome Cox;2025/10/17;Western Cape;Referral
+C0273;Jonathan Dougherty;2025/08/19;Gauteng;Influencer
+C0274;Susan Hopkins;2025/01/17;North West;Newsletter
+C0275;Victor Brown;2025/04/28;Limpopo;Meta
+C0276;Jessica Rodriguez;2025/07/06;North West;Influencer
+C0277;Angel Miller;2025/10/04;Gauteng;Newsletter
+C0278;Cameron Weber;2025/08/25;Northern Cape;Meta
+C0279;Erika Vang;2025/08/16;Mpumalanga;Influencer
+C0280;Jonathan Jordan;2025/07/26;Northern Cape;Google
+C0281;Sarah Curtis;2025/11/05;Mpumalanga;Google
+C0282;Sharon Jordan;2025/10/26;North West;Influencer
+C0283;Gerald Chavez;2025/12/11;North West;Newsletter
+C0284;Emily Edwards;2025/06/11;Northern Cape;Newsletter
+C0285;Christian Leblanc;2025/04/09;Free State;Influencer
+C0286;Bradley Reynolds;2025/01/27;Eastern Cape;Meta
+C0287;Robin Hawkins;2025/10/17;Free State;Newsletter
+C0288;Kristina Santiago;2025/08/16;Eastern Cape;Newsletter
+C0289;Maurice Christensen;2025/06/09;Mpumalanga;Influencer
+C0290;Amber Roberts;2025/12/04;Gauteng;Newsletter
+C0291;Kenneth Lewis;2025/05/02;Limpopo;Google
+C0292;Dr. Gregory Hawkins;2025/09/13;Northern Cape;Google
+C0293;Laura Aguirre;2025/02/14;Limpopo;Influencer
+C0294;Patricia Howell;2025/11/25;Limpopo;Influencer
+C0295;Allison Hickman;2025/09/20;Free State;Referral
+C0296;Alyssa Nelson;2025/11/19;Gauteng;Referral
+C0297;Gerald Smith;2025/10/24;Eastern Cape;Meta
+C0298;Matthew Jones;2025/12/04;Eastern Cape;Newsletter
+C0299;Amanda Reese;2025/10/15;Northern Cape;Referral
+C0300;Jesse Moore;2025/03/25;Eastern Cape;Newsletter
+C0301;Paula Bradley;2025/05/02;Northern Cape;Newsletter
+C0302;Brittney Webster;2025/02/02;Gauteng;Meta
+C0303;Denise Stanley;2025/01/20;Free State;Google
+C0304;Jennifer Lewis;2025/07/08;Mpumalanga;Google
+C0305;Jeffrey Campbell;2025/07/18;Free State;Referral
+C0306;Kelsey Parker;2025/09/21;Limpopo;Newsletter
+C0307;Kyle Smith;2025/03/27;North West;Referral
+C0308;Pamela Duran;2025/04/28;Limpopo;Newsletter
+C0309;Adam Burgess;2025/04/23;North West;Influencer
+C0310;Joseph Hall;2025/03/10;Limpopo;Newsletter
+C0311;Renee Jones;2025/08/05;Free State;Influencer
+C0312;Jessica Stevens;2025/12/01;Free State;Google
+C0313;Laura Berry;2025/01/31;Western Cape;Google
+C0314;Donna Sullivan;2025/10/03;Limpopo;Meta
+C0315;Travis Stevens;2025/05/07;North West;Google
+C0316;Anita Richard;2025/09/25;Eastern Cape;Google
+C0317;James Miller;2025/04/05;Northern Cape;Influencer
+C0318;Gerald Cook;2025/12/05;North West;Referral
+C0319;Mark Schmidt;2025/03/07;Free State;Meta
+C0320;Hannah Luna;2025/03/17;Eastern Cape;Influencer
+C0321;Brittany Garcia;2025/11/15;Eastern Cape;Influencer
+C0322;Lance Wolf;2025/04/10;KwaZulu-Natal;Influencer
+C0323;Trevor Burton;2025/09/12;Gauteng;Referral
+C0324;Olivia Cole;2025/06/30;KwaZulu-Natal;Influencer
+C0325;Maria Downs;2025/12/25;Gauteng;Meta
+C0326;Lori Hernandez;2025/05/06;North West;Influencer
+C0327;Mark Hogan;2025/01/27;KwaZulu-Natal;Newsletter
+C0328;Jordan Collins;2025/08/18;Western Cape;Meta
+C0329;Jacob Mitchell;2025/06/25;Free State;Newsletter
+C0330;Savannah Gilbert;2025/09/08;Northern Cape;Newsletter
+C0331;Kevin Best;2025/07/16;Limpopo;Google
+C0332;Joanna Pacheco;2025/10/14;Gauteng;Influencer
+C0333;Larry Mason;2025/09/11;Northern Cape;Meta
+C0334;Robert Monroe;2025/01/25;Western Cape;Newsletter
+C0335;Matthew Williams;2025/10/05;Northern Cape;Meta
+C0336;Jeffrey Mills;2025/10/02;Gauteng;Google
+C0337;Thomas Hughes;2025/03/03;KwaZulu-Natal;Referral
+C0338;Kyle Mccormick;2025/10/28;Free State;Meta
+C0339;Gary Grant;2025/09/09;Eastern Cape;Meta
+C0340;Nathaniel Douglas;2025/05/31;North West;Newsletter
+C0341;Brittany Miller;2025/12/18;Eastern Cape;Referral
+C0342;Gregory Ponce;2025/09/15;Mpumalanga;Newsletter
+C0343;Betty Fletcher;2025/09/29;Northern Cape;Influencer
+C0344;James Conner;2025/02/02;Mpumalanga;Influencer
+C0345;Michael Valentine;2025/11/12;Gauteng;Referral
+C0346;Anna Santiago;2025/09/24;Western Cape;Google
+C0347;Jack White;2025/07/17;Eastern Cape;Influencer
+C0348;Ralph Lee;2025/03/25;Western Cape;Google
+C0349;Edward French;2025/02/23;Eastern Cape;Google
+C0350;Sandy Stephenson;2025/07/17;North West;Meta
+C0351;Sherri Williamson;2025/01/15;KwaZulu-Natal;Meta
+C0352;Christopher Guerra;2025/08/20;Mpumalanga;Newsletter
+C0353;Stephanie Griffith;2025/10/27;Northern Cape;Influencer
+C0354;Michael Young;2025/01/17;Gauteng;Google
+C0355;Nicole Bowers;2025/06/22;Free State;Influencer
+C0356;Emily Stokes;2025/04/01;Northern Cape;Meta
+C0357;Cheyenne Gregory;2025/07/02;Eastern Cape;Influencer
+C0358;Mrs. Diane Reyes;2025/08/10;Eastern Cape;Newsletter
+C0359;Christopher Gonzalez;2025/07/24;Western Cape;Referral
+C0360;David Davidson;2025/08/23;Eastern Cape;Google
+C0361;Timothy Dawson;2025/12/06;Free State;Google
+C0362;Dominique Hines;2025/07/20;Western Cape;Meta
+C0363;Jose Guerra;2025/04/16;KwaZulu-Natal;Influencer
+C0364;Courtney Hayes;2025/02/05;Free State;Newsletter
+C0365;Jennifer Sanders;2025/05/16;Western Cape;Newsletter
+C0366;Zachary Brooks;2025/05/26;Free State;Newsletter
+C0367;Brett Espinoza;2025/01/11;Free State;Referral
+C0368;Brenda Mitchell;2025/05/11;North West;Newsletter
+C0369;Ronald Blake;2025/11/19;Northern Cape;Meta
+C0370;Aaron Miller;2025/07/02;Gauteng;Newsletter
+C0371;Chase Bentley;2025/04/10;Limpopo;Referral
+C0372;Ashley Roberts;2025/08/25;Free State;Meta
+C0373;David Fowler;2025/04/27;Western Cape;Google
+C0374;Brian Stein;2025/08/30;Gauteng;Influencer
+C0375;Lynn Andrews;2025/08/20;Gauteng;Google
+C0376;Jeffrey Mendez;2025/10/07;Northern Cape;Referral
+C0377;Chelsea Barnett;2025/04/04;Northern Cape;Influencer
+C0378;Andrea Fox;2025/07/23;KwaZulu-Natal;Referral
+C0379;Katie Smith;2025/07/17;Mpumalanga;Newsletter
+C0380;Mark Zavala;2025/12/06;Western Cape;Newsletter
+C0381;Heather Jones;2025/04/09;Limpopo;Newsletter
+C0382;Lori Ingram;2025/04/04;Limpopo;Influencer
+C0383;Brandi Bell;2025/10/13;Western Cape;Google
+C0384;Carrie Maxwell;2025/05/12;Limpopo;Newsletter
+C0385;Mrs. Catherine Taylor;2025/06/30;Northern Cape;Influencer
+C0386;Judith Carter;2025/10/06;Mpumalanga;Referral
+C0387;Stacey Stewart;2025/01/18;Gauteng;Newsletter
+C0388;Virginia Daniels;2025/05/01;Western Cape;Influencer
+C0389;Matthew Mitchell;2025/04/09;Free State;Influencer
+C0390;Sharon Rivera;2025/12/01;Western Cape;Newsletter
+C0391;Jessica Ross;2025/02/18;North West;Meta
+C0392;Jasmine Beltran;2025/06/20;North West;Newsletter
+C0393;Holly Salinas;2025/07/12;Mpumalanga;Meta
+C0394;Monica Miller;2025/04/14;Eastern Cape;Referral
+C0395;Catherine Carter MD;2025/08/22;Limpopo;Referral
+C0396;Elizabeth Morrison;2025/05/08;Northern Cape;Newsletter
+C0397;Jeremy West;2025/06/15;Gauteng;Google
+C0398;Heather Bolton;2025/10/10;Free State;Referral
+C0399;Rebecca Brown;2025/04/17;KwaZulu-Natal;Influencer
+C0400;Heidi Owen;2025/09/18;Northern Cape;Newsletter
+C0401;Andre Allison;2025/09/21;Western Cape;Meta
+C0402;Amanda Jones;2025/09/21;Eastern Cape;Google
+C0403;Heidi Herring;2025/10/30;Free State;Referral
+C0404;Meghan Rush;2025/01/13;Gauteng;Referral
+C0405;Billy Taylor;2025/05/25;Mpumalanga;Meta
+C0406;Matthew Wright;2025/05/23;Eastern Cape;Meta
+C0407;Cody Holmes;2025/02/14;Northern Cape;Meta
+C0408;Deborah Green;2025/12/21;KwaZulu-Natal;Newsletter
+C0409;Logan Benson;2025/06/23;Free State;Referral
+C0410;Chad Jones;2025/07/10;Free State;Newsletter
+C0411;Jill Miller;2025/03/09;Northern Cape;Newsletter
+C0412;Victoria Contreras;2025/09/22;Eastern Cape;Newsletter
+C0413;Joshua Vance;2025/10/03;North West;Google
+C0414;Michael Graves;2025/11/27;Mpumalanga;Google
+C0415;Katie Martinez;2025/03/09;North West;Google
+C0416;Cynthia Snyder;2025/03/20;Western Cape;Influencer
+C0417;Jackie Lara;2025/05/21;Mpumalanga;Influencer
+C0418;Stephen Jones;2025/08/03;North West;Influencer
+C0419;Dr. Kelly Hammond DVM;2025/06/04;Gauteng;Influencer
+C0420;Evan Jones;2025/01/29;Free State;Referral
+C0421;Haley Humphrey;2025/06/30;Northern Cape;Google
+C0422;Laurie Saunders;2025/10/31;Northern Cape;Referral
+C0423;Thomas Brown;2025/02/20;Northern Cape;Influencer
+C0424;Elizabeth Martin;2025/02/18;Limpopo;Referral
+C0425;Hannah Everett;2025/12/30;North West;Newsletter
+C0426;Blake Gonzalez;2025/12/14;Northern Cape;Influencer
+C0427;Mario Mendez;2025/08/02;Eastern Cape;Google
+C0428;Caroline David;2025/02/06;Mpumalanga;Google
+C0429;Marcus Winters;2025/03/01;Mpumalanga;Meta
+C0430;Kristy Bryan;2025/05/12;Limpopo;Newsletter
+C0431;Travis Wise;2025/01/12;Mpumalanga;Newsletter
+C0432;Pamela Butler;2025/04/13;KwaZulu-Natal;Newsletter
+C0433;Stephen Gardner;2025/09/06;Gauteng;Google
+C0434;Karen Ballard;2025/09/07;North West;Referral
+C0435;Jesse Barker;2025/09/24;Limpopo;Meta
+C0436;John Harris;2025/03/03;Northern Cape;Meta
+C0437;Scott Flores;2025/08/24;North West;Newsletter
+C0438;James Hodges;2025/12/01;Gauteng;Google
+C0439;Emma Owens;2025/07/19;Mpumalanga;Google
+C0440;Charles Williams;2025/04/14;Western Cape;Newsletter
+C0441;Jennifer Estes;2025/05/30;Free State;Influencer
+C0442;Garrett Lane;2025/12/17;Mpumalanga;Meta
+C0443;Christopher Ferrell;2025/05/02;Limpopo;Referral
+C0444;Mr. Alexander Landry MD;2025/07/01;Mpumalanga;Influencer
+C0445;Harry Williams;2025/04/04;Northern Cape;Referral
+C0446;Sarah Chambers;2025/07/12;Gauteng;Referral
+C0447;Sarah Jordan;2025/04/21;Western Cape;Google
+C0448;Jacob Powell;2025/12/09;Free State;Google
+C0449;Kelly Lee;2025/01/18;Western Cape;Newsletter
+C0450;James Cole;2025/08/03;Western Cape;Meta
+C0451;William Becker;2025/08/02;Northern Cape;Google
+C0452;Brent Brooks;2025/02/16;Free State;Meta
+C0453;Holly Thomas;2025/05/12;Gauteng;Influencer
+C0454;Kathryn Williams;2025/08/22;Gauteng;Influencer
+C0455;Regina Stone;2025/02/23;Limpopo;Influencer
+C0456;Kaylee Murphy;2025/02/27;Mpumalanga;Google
+C0457;James Jensen;2025/08/27;Eastern Cape;Referral
+C0458;George Clayton;2025/11/24;Mpumalanga;Referral
+C0459;Justin Wells Jr.;2025/07/26;KwaZulu-Natal;Google
+C0460;Veronica Silva;2025/05/09;KwaZulu-Natal;Meta
+C0461;Shelby Soto;2025/11/06;Mpumalanga;Referral
+C0462;Walter Patton;2025/08/20;Eastern Cape;Newsletter
+C0463;Crystal Williams;2025/10/29;KwaZulu-Natal;Google
+C0464;Mark Harvey;2025/07/06;Northern Cape;Influencer
+C0465;Roberto Allen;2025/11/23;Northern Cape;Influencer
+C0466;Ashley Smith;2025/08/11;Gauteng;Newsletter
+C0467;Jason Harris;2025/05/02;Free State;Referral
+C0468;Tami Salas;2025/07/14;KwaZulu-Natal;Meta
+C0469;Michele Stone;2025/10/13;Northern Cape;Influencer
+C0470;Matthew Fox;2025/08/06;Free State;Newsletter
+C0471;Julia Patel;2025/05/02;Free State;Newsletter
+C0472;Raymond Le;2025/08/01;Free State;Google
+C0473;Deborah Washington;2025/09/07;Mpumalanga;Newsletter
+C0474;Edwin David;2025/04/06;Western Cape;Google
+C0475;Michele Vaughn;2025/04/26;Mpumalanga;Referral
+C0476;Gregory Peck;2025/07/09;Limpopo;Referral
+C0477;Donna Berry;2025/11/05;Free State;Influencer
+C0478;William Cardenas;2025/07/30;Gauteng;Newsletter
+C0479;Donna Roberts;2025/10/28;Free State;Meta
+C0480;Thomas Douglas;2025/10/05;Gauteng;Referral
+C0481;Dale Ryan;2025/10/18;Northern Cape;Influencer
+C0482;Denise Rodriguez;2025/12/29;Eastern Cape;Referral
+C0483;Dana Santiago;2025/10/15;Limpopo;Google
+C0484;David Garcia;2025/07/26;Eastern Cape;Referral
+C0485;Ashlee Townsend;2025/05/09;Free State;Google
+C0486;Vanessa Moore;2025/01/03;Western Cape;Meta
+C0487;Sherry Woods;2025/09/11;Free State;Newsletter
+C0488;Donna Mitchell;2025/03/19;Gauteng;Referral
+C0489;Ann Andrews;2025/01/23;Limpopo;Google
+C0490;Sarah Johnson;2025/07/27;Western Cape;Influencer
+C0491;Stephen Thompson;2025/12/24;Limpopo;Newsletter
+C0492;Russell French;2025/12/24;KwaZulu-Natal;Google
+C0493;Tonya Howe;2025/03/14;KwaZulu-Natal;Referral
+C0494;Edwin Morrison;2025/12/07;Limpopo;Referral
+C0495;Mrs. Virginia Daniels;2025/12/27;North West;Influencer
+C0496;Brandi Gordon;2025/07/11;KwaZulu-Natal;Influencer
+C0497;Brian Martin;2025/04/16;Northern Cape;Influencer
+C0498;Michelle Smith;2025/06/28;Limpopo;Meta
+C0499;Laura Todd;2025/05/11;Northern Cape;Meta
+C0500;Margaret Sullivan;2025/03/10;KwaZulu-Natal;Google
+C0501;Angie Caldwell;2025/06/16;Mpumalanga;Referral
+C0502;Mrs. Taylor Smith;2025/03/13;Limpopo;Meta
+C0503;Paul Finley;2025/05/29;Mpumalanga;Meta
+C0504;Laura Green;2025/04/28;Free State;Referral
+C0505;Amy Wilson;2025/05/20;Western Cape;Newsletter
+C0506;Michael Leblanc;2025/04/30;Limpopo;Influencer
+C0507;Emily Wilson;2025/12/11;Mpumalanga;Influencer
+C0508;Holly Walker;2025/12/22;Western Cape;Google
+C0509;Jesse Zhang;2025/02/21;Northern Cape;Meta
+C0510;Joshua Ruiz;2025/05/26;North West;Influencer
+C0511;Samantha Gill;2025/07/28;Eastern Cape;Meta
+C0512;Shelley Miller;2025/09/22;Northern Cape;Influencer
+C0513;Heidi Stark;2025/06/23;Mpumalanga;Meta
+C0514;Joshua Wagner;2025/02/13;KwaZulu-Natal;Meta
+C0515;Carmen Bond;2025/08/11;Gauteng;Influencer
+C0516;Daniel Aguilar;2025/06/21;Northern Cape;Meta
+C0517;Jill Brown;2025/02/05;Western Cape;Google
+C0518;Joyce Brown;2025/02/21;North West;Google
+C0519;Elizabeth Johnson;2025/06/29;Mpumalanga;Newsletter
+C0520;Nichole Lane;2025/04/09;Limpopo;Referral
+C0521;Michael Weaver;2025/01/18;Mpumalanga;Referral
+C0522;Andrea Peck;2025/01/24;KwaZulu-Natal;Newsletter
+C0523;Christopher Taylor;2025/01/13;Western Cape;Newsletter
+C0524;Maria Fisher;2025/09/07;Mpumalanga;Influencer
+C0525;Sergio Knox;2025/12/13;Gauteng;Influencer
+C0526;Victor Baxter;2025/05/26;Eastern Cape;Newsletter
+C0527;Hannah White;2025/02/21;Northern Cape;Google
+C0528;Cameron Irwin;2025/07/28;Limpopo;Meta
+C0529;Alexander Evans;2025/11/21;Limpopo;Referral
+C0530;Jessica Gray;2025/09/19;Limpopo;Meta
+C0531;Gregory Hill;2025/03/31;Mpumalanga;Influencer
+C0532;Ashley Pacheco;2025/12/06;Eastern Cape;Meta
+C0533;Taylor Small;2025/06/12;Northern Cape;Meta
+C0534;Brian Johnson;2025/04/04;Eastern Cape;Referral
+C0535;Shelby Sanchez;2025/08/21;Gauteng;Meta
+C0536;David Robinson;2025/01/18;Limpopo;Google
+C0537;Brenda Holder;2025/12/02;KwaZulu-Natal;Referral
+C0538;Monique Flores;2025/04/01;Eastern Cape;Meta
+C0539;Sabrina Young;2025/08/21;North West;Google
+C0540;Matthew Walker;2025/12/07;Eastern Cape;Google
+C0541;Justin Vargas;2025/04/27;Limpopo;Google
+C0542;Lori Simmons;2025/10/13;Gauteng;Influencer
+C0543;Gregory Schneider;2025/07/12;KwaZulu-Natal;Google
+C0544;Emma Butler;2025/05/29;North West;Influencer
+C0545;Clinton Medina;2025/02/27;KwaZulu-Natal;Meta
+C0546;Elizabeth Zimmerman;2025/04/04;Gauteng;Google
+C0547;Anthony Gutierrez;2025/11/09;Gauteng;Influencer
+C0548;Brandi Sanchez;2025/06/11;Eastern Cape;Referral
+C0549;Bob Cole;2025/03/20;Limpopo;Meta
+C0550;Nathaniel Lee;2025/05/25;KwaZulu-Natal;Influencer
+C0551;Larry Williams;2025/04/15;Gauteng;Google
+C0552;Philip Ramsey;2025/01/29;Mpumalanga;Referral
+C0553;Daniel Meadows;2025/08/06;Western Cape;Meta
+C0554;Alexis Giles;2025/04/28;Northern Cape;Newsletter
+C0555;Zachary Mendoza;2025/10/15;Limpopo;Referral
+C0556;Michele Sanders;2025/04/05;Western Cape;Newsletter
+C0557;Patricia James;2025/04/03;North West;Google
+C0558;Elizabeth Ward;2025/07/27;Gauteng;Referral
+C0559;Brett Zavala MD;2025/12/09;Free State;Newsletter
+C0560;Dale Edwards;2025/11/23;Gauteng;Meta
+C0561;Connie Thomas;2025/01/18;Northern Cape;Newsletter
+C0562;Lauren Cortez;2025/04/12;Mpumalanga;Meta
+C0563;Gary James;2025/04/25;Northern Cape;Newsletter
+C0564;Juan Harding;2025/11/20;Western Cape;Meta
+C0565;Roberto Levy;2025/05/12;Limpopo;Referral
+C0566;Julia Oconnor;2025/09/07;KwaZulu-Natal;Meta
+C0567;Nathan Freeman;2025/05/17;KwaZulu-Natal;Influencer
+C0568;Wanda Bernard;2025/12/23;North West;Influencer
+C0569;Ryan Landry;2025/07/23;Mpumalanga;Referral
+C0570;Aaron Taylor;2025/09/17;North West;Influencer
+C0571;Michael Smith;2025/09/02;Northern Cape;Referral
+C0572;Antonio Little;2025/07/16;Mpumalanga;Meta
+C0573;Karen Freeman;2025/12/29;Western Cape;Referral
+C0574;Jennifer Smith;2025/01/03;Eastern Cape;Newsletter
+C0575;William Smith;2025/10/08;Northern Cape;Google
+C0576;Jessica Case;2025/11/12;Mpumalanga;Influencer
+C0577;Brent Hernandez;2025/03/11;Northern Cape;Newsletter
+C0578;Dawn Gomez;2025/03/16;Mpumalanga;Meta
+C0579;Jake Sullivan;2025/11/05;Limpopo;Newsletter
+C0580;Michael Evans;2025/08/08;Limpopo;Influencer
+C0581;Martha Garrison;2025/11/18;Limpopo;Google
+C0582;Jared Bennett;2025/10/22;Northern Cape;Meta
+C0583;Adam Jackson;2025/07/04;Western Cape;Meta
+C0584;Maria Rivera;2025/07/14;Western Cape;Newsletter
+C0585;Stephanie Ellison;2025/11/30;Western Cape;Influencer
+C0586;Sean Clay;2025/03/31;KwaZulu-Natal;Referral
+C0587;Thomas Cohen;2025/07/04;Gauteng;Referral
+C0588;Kristy Johnson;2025/04/19;North West;Referral
+C0589;Alexis Clark;2025/12/27;Limpopo;Meta
+C0590;Michelle Sanders;2025/02/25;Mpumalanga;Influencer
+C0591;Justin Knight;2025/01/30;Mpumalanga;Meta
+C0592;Steven Rivera;2025/11/26;Free State;Referral
+C0593;Rachel Norris;2025/10/21;Free State;Influencer
+C0594;Valerie Brown;2025/01/31;Western Cape;Referral
+C0595;Billy Jacobs;2025/06/19;North West;Google
+C0596;Jennifer Ayala;2025/08/27;KwaZulu-Natal;Newsletter
+C0597;Rachel Hayes;2025/01/12;Eastern Cape;Meta
+C0598;Todd Reynolds;2025/03/30;Limpopo;Referral
+C0599;Jamie Barton;2025/09/21;Limpopo;Meta
+C0600;Michelle Miller;2025/04/25;Free State;Referral
+C0601;Richard Moore;2025/03/01;Eastern Cape;Newsletter
+C0602;Brian Smith;2025/06/01;North West;Referral
+C0603;Philip Garcia;2025/04/30;North West;Meta
+C0604;Jerry Peters;2025/02/03;Free State;Meta
+C0605;Brandon Spencer;2025/06/08;KwaZulu-Natal;Influencer
+C0606;Erika Cruz;2025/08/20;Free State;Influencer
+C0607;Richard Hardy;2025/04/24;Limpopo;Meta
+C0608;Vanessa Armstrong;2025/08/06;KwaZulu-Natal;Google
+C0609;Caroline Adams;2025/03/07;Mpumalanga;Meta
+C0610;Arthur Hamilton MD;2025/04/15;KwaZulu-Natal;Meta
+C0611;Heather Raymond;2025/07/08;Western Cape;Referral
+C0612;Linda Gonzalez;2025/10/07;Eastern Cape;Newsletter
+C0613;Adam Foster;2025/02/11;Mpumalanga;Newsletter
+C0614;Regina Rivera;2025/11/23;Limpopo;Google
+C0615;Rodney Curtis;2025/05/10;Limpopo;Influencer
+C0616;Frank Valentine;2025/08/19;Limpopo;Referral
+C0617;Christopher Sanders;2025/03/20;Western Cape;Meta
+C0618;Michael Henry;2025/05/04;KwaZulu-Natal;Google
+C0619;Erika Ramirez;2025/08/12;Gauteng;Meta
+C0620;Brian Elliott;2025/11/02;Free State;Newsletter
+C0621;Catherine Saunders MD;2025/08/18;Mpumalanga;Newsletter
+C0622;Michael Gonzales;2025/10/10;Northern Cape;Newsletter
+C0623;Andrea Abbott;2025/04/24;Free State;Google
+C0624;Jonathan Schultz;2025/11/05;North West;Meta
+C0625;Christian Henderson;2025/04/04;Limpopo;Newsletter
+C0626;William Mendoza;2025/05/27;Western Cape;Influencer
+C0627;Tammy Kane;2025/06/05;Northern Cape;Referral
+C0628;Rachel Ward;2025/06/12;Free State;Meta
+C0629;Linda Rocha;2025/12/14;Eastern Cape;Newsletter
+C0630;Mary Kelly;2025/02/12;Gauteng;Meta
+C0631;Kristine Newman;2025/09/09;Eastern Cape;Influencer
+C0632;Paul Sheppard;2025/09/09;Eastern Cape;Google
+C0633;Brett Walker;2025/06/17;Free State;Influencer
+C0634;Lauren Johnston;2025/10/18;Limpopo;Meta
+C0635;Joel Frazier;2025/06/23;Gauteng;Newsletter
+C0636;Haley Johnson;2025/09/26;Mpumalanga;Google
+C0637;Thomas Miller;2025/02/10;KwaZulu-Natal;Newsletter
+C0638;Brenda Collins;2025/11/19;North West;Google
+C0639;Kelly Bailey;2025/06/26;North West;Referral
+C0640;Michael Flores;2025/02/07;Limpopo;Meta
+C0641;Michael Johnson;2025/04/27;Mpumalanga;Meta
+C0642;Megan Martin;2025/05/14;Mpumalanga;Meta
+C0643;Christopher Moore;2025/10/15;Northern Cape;Meta
+C0644;Joel Salinas;2025/08/06;Limpopo;Referral
+C0645;Martin Reynolds;2025/09/02;Mpumalanga;Referral
+C0646;Sonya Cole;2025/01/12;Mpumalanga;Newsletter
+C0647;Michael Harris;2025/06/16;Free State;Meta
+C0648;Rebecca Ray;2025/10/20;Mpumalanga;Meta
+C0649;Chelsea Nguyen;2025/11/07;Limpopo;Google
+C0650;Michael Burns;2025/06/27;Northern Cape;Influencer
+C0651;James Long;2025/09/06;Western Cape;Newsletter
+C0652;Ryan Williamson;2025/02/14;Western Cape;Google
+C0653;Rebecca Sellers;2025/11/13;Mpumalanga;Referral
+C0654;Cesar Wilson;2025/08/18;Mpumalanga;Referral
+C0655;James Thomas;2025/04/29;Western Cape;Newsletter
+C0656;Chad Reyes;2025/05/31;Free State;Influencer
+C0657;Mr. Thomas Arias;2025/03/14;Eastern Cape;Influencer
+C0658;Katherine Taylor;2025/03/09;KwaZulu-Natal;Meta
+C0659;Lisa Glenn;2025/05/03;North West;Meta
+C0660;Mr. James Hoffman;2025/01/04;North West;Referral
+C0661;Michael Perry PhD;2025/09/11;Eastern Cape;Influencer
+C0662;Keith Flynn;2025/07/09;Limpopo;Google
+C0663;Donald Medina;2025/03/27;Eastern Cape;Meta
+C0664;Krystal Barton;2025/03/07;KwaZulu-Natal;Influencer
+C0665;Ashley Wilson;2025/07/12;Eastern Cape;Google
+C0666;Wendy Weaver;2025/10/29;KwaZulu-Natal;Meta
+C0667;Nathan Payne;2025/10/21;KwaZulu-Natal;Newsletter
+C0668;Ronald Potter;2025/06/15;Northern Cape;Referral
+C0669;Amanda Baker;2025/04/26;Northern Cape;Referral
+C0670;Jessica Mcknight;2025/12/01;Limpopo;Influencer
+C0671;Christine Rojas;2025/10/29;KwaZulu-Natal;Newsletter
+C0672;Michael Chen;2025/09/25;Western Cape;Newsletter
+C0673;Rachel Li;2025/03/06;Northern Cape;Influencer
+C0674;Gregory Campbell;2025/11/09;Free State;Referral
+C0675;William Carter;2025/07/29;Gauteng;Influencer
+C0676;Scott Duke;2025/08/11;North West;Meta
+C0677;Brandy Brady;2025/09/21;Free State;Newsletter
+C0678;Wendy Camacho;2025/06/09;Northern Cape;Meta
+C0679;Brandi Thomas;2025/02/19;Gauteng;Influencer
+C0680;Pam Lowe;2025/05/06;Free State;Meta
+C0681;Mark Burton;2025/07/10;Western Cape;Referral
+C0682;Mark Beard;2025/05/26;North West;Newsletter
+C0683;Paul Neal;2025/02/06;Northern Cape;Referral
+C0684;Travis Murphy;2025/12/07;North West;Meta
+C0685;Sarah Davis;2025/01/01;Northern Cape;Referral
+C0686;Melissa Horn;2025/06/28;Eastern Cape;Influencer
+C0687;Claudia Jordan;2025/11/06;Northern Cape;Referral
+C0688;Frank Campbell MD;2025/03/24;KwaZulu-Natal;Meta
+C0689;Karina Cooper;2025/02/20;Northern Cape;Meta
+C0690;Amber Sims;2025/09/23;Limpopo;Meta
+C0691;Caleb Mathews;2025/11/21;North West;Google
+C0692;William Patterson;2025/06/21;Gauteng;Google
+C0693;Sonia Turner;2025/09/25;Northern Cape;Newsletter
+C0694;Denise Pena;2025/12/06;North West;Referral
+C0695;Matthew Banks;2025/04/08;KwaZulu-Natal;Influencer
+C0696;Eric Lyons;2025/01/21;Limpopo;Influencer
+C0697;Brandon Davis;2025/04/01;Mpumalanga;Newsletter
+C0698;Casey Perez;2025/03/24;Limpopo;Referral
+C0699;Adam Cooper;2025/09/22;Gauteng;Influencer
+C0700;Jennifer Anderson MD;2025/02/16;Western Cape;Influencer
+C0701;Robert Garcia;2025/05/29;Western Cape;Referral
+C0702;Breanna Ayala;2025/05/23;Mpumalanga;Influencer
+C0703;Margaret Byrd;2025/10/20;Free State;Referral
+C0704;Alejandra Santos;2025/01/27;KwaZulu-Natal;Influencer
+C0705;Daniel Goodman;2025/06/20;Western Cape;Referral
+C0706;Michael Heath;2025/12/24;KwaZulu-Natal;Influencer
+C0707;Brenda Martinez;2025/02/03;Free State;Newsletter
+C0708;Victor Edwards;2025/10/11;KwaZulu-Natal;Referral
+C0709;Matthew Wright;2025/02/24;Western Cape;Influencer
+C0710;Lisa Maxwell;2025/08/22;North West;Newsletter
+C0711;Ryan Liu;2025/09/26;Limpopo;Google
+C0712;Katrina Adkins;2025/03/21;North West;Meta
+C0713;Rachel Leon;2025/04/25;Mpumalanga;Referral
+C0714;Brian Porter MD;2025/04/03;Limpopo;Meta
+C0715;Alexandria Ward;2025/07/25;Limpopo;Influencer
+C0716;Scott Carroll;2025/05/03;KwaZulu-Natal;Google
+C0717;Carrie Ruiz;2025/05/22;Limpopo;Newsletter
+C0718;Kevin Smith;2025/10/27;Eastern Cape;Google
+C0719;Antonio Mccormick;2025/03/25;KwaZulu-Natal;Google
+C0720;Micheal Wang;2025/07/16;Western Cape;Influencer
+C0721;Angela Herrera;2025/06/14;Western Cape;Referral
+C0722;Bradley Miller;2025/08/28;North West;Referral
+C0723;Robert Herrera;2025/12/24;Gauteng;Influencer
+C0724;Pamela Santos;2025/06/01;KwaZulu-Natal;Referral
+C0725;Michael Blair;2025/09/07;Mpumalanga;Google
+C0726;David Middleton;2025/11/25;KwaZulu-Natal;Google
+C0727;Lee Parker;2025/02/15;KwaZulu-Natal;Newsletter
+C0728;Casey Smith;2025/10/16;Gauteng;Newsletter
+C0729;Carla Benton;2025/02/23;Limpopo;Google
+C0730;Samantha Green;2025/07/23;Northern Cape;Referral
+C0731;Richard Adams;2025/05/25;Free State;Newsletter
+C0732;Steven Rogers;2025/12/11;Eastern Cape;Referral
+C0733;Austin Joseph;2025/06/16;Eastern Cape;Influencer
+C0734;Kathleen Dixon;2025/08/12;Northern Cape;Google
+C0735;Mr. Jacob Scott Jr.;2025/01/22;Limpopo;Referral
+C0736;Ashley Yang;2025/08/11;Northern Cape;Newsletter
+C0737;Scott Sanchez;2025/01/01;Free State;Newsletter
+C0738;Thomas White;2025/07/03;North West;Referral
+C0739;Robert Klein;2025/11/30;Mpumalanga;Google
+C0740;Frank Butler;2025/09/12;Eastern Cape;Referral
+C0741;Roger Duncan;2025/10/07;KwaZulu-Natal;Influencer
+C0742;Stephanie White;2025/02/16;Gauteng;Newsletter
+C0743;Amber Morales;2025/11/09;Limpopo;Referral
+C0744;Douglas Kirk;2025/12/07;Western Cape;Referral
+C0745;Jesus Wood;2025/05/08;Western Cape;Influencer
+C0746;Elizabeth Dean;2025/04/24;Western Cape;Google
+C0747;Wesley Cuevas;2025/06/30;Free State;Newsletter
+C0748;Steven Hodges;2025/10/29;North West;Google
+C0749;Timothy Johnson;2025/04/06;Mpumalanga;Meta
+C0750;Ryan Wiley;2025/07/30;Eastern Cape;Newsletter
+C0751;Matthew Sweeney;2025/05/11;Limpopo;Meta
+C0752;Daniel Bird;2025/10/10;Mpumalanga;Meta
+C0753;Anthony Shea DDS;2025/06/13;Mpumalanga;Referral
+C0754;David Bruce;2025/02/06;Limpopo;Google
+C0755;Jacqueline Villegas;2025/06/10;Mpumalanga;Meta
+C0756;Kathy Walsh;2025/02/02;Limpopo;Google
+C0757;Keith Graham;2025/06/03;Gauteng;Influencer
+C0758;Dean Edwards;2025/02/20;Western Cape;Influencer
+C0759;Ronnie Nguyen;2025/11/08;KwaZulu-Natal;Google
+C0760;Benjamin Harris;2025/06/25;Gauteng;Influencer
+C0761;Ashley Garcia;2025/10/30;Northern Cape;Google
+C0762;Jason Herrera;2025/06/24;Northern Cape;Newsletter
+C0763;Eric Baker;2025/10/27;Gauteng;Meta
+C0764;Robert Torres;2025/02/16;Gauteng;Influencer
+C0765;Amanda Huff;2025/10/01;Eastern Cape;Google
+C0766;Michael Schmitt;2025/05/08;North West;Referral
+C0767;Megan Green;2025/06/03;North West;Newsletter
+C0768;Jared Chavez;2025/03/09;Western Cape;Influencer
+C0769;Anna Garcia;2025/10/18;Eastern Cape;Influencer
+C0770;Adam Greer;2025/11/05;Western Cape;Meta
+C0771;Rodney Watson;2025/03/28;Eastern Cape;Newsletter
+C0772;Angela Willis;2025/09/02;Northern Cape;Meta
+C0773;Alison Brown;2025/12/23;Western Cape;Newsletter
+C0774;Rhonda Davis;2025/12/17;North West;Meta
+C0775;Erin Williams;2025/11/26;North West;Referral
+C0776;Thomas Hamilton;2025/06/29;Eastern Cape;Google
+C0777;Allen Vega;2025/10/09;Free State;Newsletter
+C0778;Terry Hill;2025/03/09;Gauteng;Referral
+C0779;Amanda Harvey;2025/06/23;Limpopo;Google
+C0780;Kathleen Andrade;2025/04/06;Mpumalanga;Google
+C0781;Douglas Taylor;2025/07/06;Western Cape;Referral
+C0782;Rebecca Wright;2025/03/19;Limpopo;Meta
+C0783;Alicia Reyes;2025/11/08;North West;Referral
+C0784;Joshua Washington;2025/10/05;North West;Referral
+C0785;Erica Nelson;2025/12/21;North West;Meta
+C0786;Daniel Huang;2025/01/11;Mpumalanga;Newsletter
+C0787;Robert Ruiz;2025/10/30;Gauteng;Newsletter
+C0788;Yvonne Dickson;2025/05/19;Limpopo;Influencer
+C0789;David Ferguson;2025/02/08;Gauteng;Influencer
+C0790;Amy Davies;2025/11/04;Western Cape;Influencer
+C0791;Vickie Price;2025/03/27;Eastern Cape;Meta
+C0792;Sarah Thompson;2025/12/30;Limpopo;Google
+C0793;Oscar Howard;2025/08/19;Gauteng;Influencer
+C0794;Michael Meza;2025/08/18;North West;Influencer
+C0795;Travis Copeland;2025/08/07;KwaZulu-Natal;Newsletter
+C0796;Katherine Parker;2025/11/11;Northern Cape;Google
+C0797;Anthony Guzman;2025/07/10;KwaZulu-Natal;Meta
+C0798;April Hardin;2025/01/08;Northern Cape;Meta
+C0799;Gina Thompson;2025/03/20;Free State;Google
+C0800;Erica Johnson;2025/11/08;Gauteng;Google
+C0801;Brenda Rodriguez;2025/08/16;Gauteng;Influencer
+C0802;Toni Brooks;2025/07/24;Free State;Referral
+C0803;Brian Turner;2025/09/15;Mpumalanga;Referral
+C0804;Morgan Kim;2025/02/22;Northern Cape;Influencer
+C0805;Marie Thompson;2025/09/06;Gauteng;Google
+C0806;Tanya Buchanan;2025/08/07;Free State;Influencer
+C0807;Robin Gray;2025/03/28;Gauteng;Influencer
+C0808;Bethany Daniel;2025/10/13;Free State;Meta
+C0809;Jenna Gamble;2025/09/30;Limpopo;Newsletter
+C0810;Lance Mccall;2025/08/09;Mpumalanga;Newsletter
+C0811;Keith Zuniga;2025/08/26;Mpumalanga;Influencer
+C0812;Blake Reed;2025/02/24;KwaZulu-Natal;Newsletter
+C0813;Stephen Davis;2025/05/05;Northern Cape;Influencer
+C0814;Monica Rogers;2025/10/03;North West;Influencer
+C0815;David Jones;2025/01/05;Western Cape;Newsletter
+C0816;Michelle Williams;2025/04/10;Western Cape;Newsletter
+C0817;Tracy Wilkerson;2025/06/20;KwaZulu-Natal;Referral
+C0818;Heather Bennett;2025/07/11;Free State;Influencer
+C0819;Sean Curtis;2025/11/18;Western Cape;Meta
+C0820;Jerry Lloyd;2025/09/24;Limpopo;Influencer
+C0821;Fernando Lynn;2025/01/13;Free State;Newsletter
+C0822;Stephen Martin;2025/01/29;Mpumalanga;Google
+C0823;Stephanie Davis;2025/01/30;Northern Cape;Influencer
+C0824;Dr. Michele Reynolds;2025/08/19;Northern Cape;Meta
+C0825;Steve Moore;2025/09/11;Limpopo;Referral
+C0826;William Ortiz;2025/02/09;Mpumalanga;Influencer
+C0827;Monica Baker;2025/08/04;Gauteng;Meta
+C0828;Brendan Long;2025/04/20;Mpumalanga;Influencer
+C0829;Brittany Ward;2025/08/02;North West;Google
+C0830;Rodney Weber;2025/06/16;Gauteng;Google
+C0831;Alexander Jackson;2025/07/06;Northern Cape;Meta
+C0832;Kara Wilson;2025/04/24;KwaZulu-Natal;Meta
+C0833;John Guerrero;2025/11/01;Eastern Cape;Influencer
+C0834;Jasmine Watson;2025/02/05;Limpopo;Newsletter
+C0835;Jeremy Baker;2025/05/29;Gauteng;Referral
+C0836;Russell Elliott;2025/06/30;KwaZulu-Natal;Newsletter
+C0837;Mary Miller;2025/02/28;Limpopo;Influencer
+C0838;Jennifer Avila;2025/05/14;Northern Cape;Meta
+C0839;Sara Cardenas;2025/03/30;KwaZulu-Natal;Referral
+C0840;Melissa Mayer;2025/06/12;Limpopo;Newsletter
+C0841;Karen Miller;2025/08/11;Limpopo;Influencer
+C0842;Amanda Duncan;2025/12/17;Eastern Cape;Meta
+C0843;Megan Oliver;2025/07/20;Gauteng;Google
+C0844;Joann Rush;2025/02/16;Northern Cape;Referral
+C0845;Rhonda Martinez;2025/03/06;Mpumalanga;Referral
+C0846;Michael Harris;2025/06/14;Western Cape;Influencer
+C0847;Sandra Scott;2025/11/16;Free State;Newsletter
+C0848;Renee Miller;2025/12/20;Eastern Cape;Referral
+C0849;Gabriel Hill;2025/08/05;Free State;Newsletter
+C0850;Alexandria Graves;2025/06/27;Eastern Cape;Meta
+C0851;Jennifer Perry;2025/08/17;KwaZulu-Natal;Meta
+C0852;Lauren Hanna;2025/02/27;Northern Cape;Google
+C0853;Kristine Garcia;2025/02/08;Northern Cape;Meta
+C0854;Sheryl Humphrey;2025/04/22;Limpopo;Influencer
+C0855;John Lynch;2025/04/13;Western Cape;Referral
+C0856;Jamie Montgomery;2025/01/15;North West;Influencer
+C0857;Amanda Preston;2025/09/22;Free State;Google
+C0858;Amber Alvarez;2025/05/09;KwaZulu-Natal;Influencer
+C0859;Alicia Roth;2025/04/15;North West;Google
+C0860;Ryan Garrison;2025/04/28;Western Cape;Google
+C0861;Sean Taylor;2025/09/23;KwaZulu-Natal;Google
+C0862;Roger Adams;2025/10/16;Northern Cape;Meta
+C0863;Ann Alexander;2025/06/11;Limpopo;Referral
+C0864;Natalie Malone;2025/12/21;Limpopo;Newsletter
+C0865;Anthony Moody;2025/12/03;North West;Google
+C0866;Jonathon Taylor;2025/01/26;Western Cape;Meta
+C0867;Laura Thompson;2025/11/27;Free State;Newsletter
+C0868;Sara Wright;2025/12/06;Northern Cape;Referral
+C0869;Isaac Gonzalez;2025/06/27;Mpumalanga;Newsletter
+C0870;Kathy Reid;2025/05/24;Western Cape;Google
+C0871;Dana Burns;2025/02/18;Limpopo;Meta
+C0872;Seth Matthews;2025/06/23;Northern Cape;Newsletter
+C0873;Ryan Green;2025/05/16;North West;Influencer
+C0874;Dominique Hughes;2025/11/19;KwaZulu-Natal;Referral
+C0875;Penny Lewis;2025/03/05;KwaZulu-Natal;Google
+C0876;Megan Adams;2025/03/27;Mpumalanga;Referral
+C0877;Sharon Coffey;2025/06/09;Gauteng;Meta
+C0878;Thomas Holland;2025/09/22;North West;Google
+C0879;Courtney Franklin;2025/08/22;Free State;Google
+C0880;Michelle Hill;2025/04/29;KwaZulu-Natal;Influencer
+C0881;Gregory King;2025/12/14;Eastern Cape;Influencer
+C0882;Joseph Hanson;2025/07/01;North West;Influencer
+C0883;Jorge Bates;2025/08/15;Western Cape;Influencer
+C0884;Kristina Wheeler;2025/11/24;Eastern Cape;Referral
+C0885;Brian Brown;2025/04/20;Free State;Google
+C0886;Shannon Green;2025/04/18;Free State;Referral
+C0887;Marisa Lopez;2025/10/04;North West;Meta
+C0888;Stephanie Trujillo;2025/07/20;North West;Google
+C0889;Jennifer Flores;2025/11/08;KwaZulu-Natal;Google
+C0890;Mary Bright;2025/02/24;Limpopo;Referral
+C0891;Jennifer Doyle;2025/04/11;Gauteng;Meta
+C0892;Laura Lee;2025/08/15;Western Cape;Meta
+C0893;Melissa Little;2025/10/10;Free State;Google
+C0894;Megan Romero;2025/07/04;Mpumalanga;Referral
+C0895;Matthew Grant;2025/11/25;Gauteng;Newsletter
+C0896;Carl Green;2025/04/25;North West;Influencer
+C0897;Susan Arroyo;2025/11/10;Free State;Newsletter
+C0898;Brandon Kelly;2025/12/16;Eastern Cape;Newsletter
+C0899;Jennifer Eaton;2025/10/17;Free State;Newsletter
+C0900;Edward York;2025/05/25;Western Cape;Meta
+C0901;Mark Carpenter;2025/07/02;KwaZulu-Natal;Newsletter
+C0902;Steve Mason;2025/08/30;Mpumalanga;Newsletter
+C0903;Kendra Gutierrez;2025/12/03;Northern Cape;Google
+C0904;Brenda Gonzalez;2025/12/05;Limpopo;Referral
+C0905;Dr. Victoria Thomas;2025/06/08;KwaZulu-Natal;Influencer
+C0906;Peggy Freeman;2025/12/01;Limpopo;Influencer
+C0907;Mrs. Amy Hayes;2025/09/03;Mpumalanga;Google
+C0908;Caroline Duran;2025/03/23;Limpopo;Referral
+C0909;Penny Anderson;2025/07/10;North West;Meta
+C0910;Jennifer Sanford;2025/06/18;Limpopo;Google
+C0911;Joseph Cross;2025/05/29;Northern Cape;Meta
+C0912;Nicole Schmidt;2025/01/06;Free State;Newsletter
+C0913;Lori Wright;2025/01/07;Eastern Cape;Google
+C0914;Emily Garcia;2025/09/27;Western Cape;Meta
+C0915;Carol Colon;2025/07/15;Free State;Newsletter
+C0916;Joy Meyer;2025/04/26;Mpumalanga;Google
+C0917;Stephen Cowan;2025/07/23;KwaZulu-Natal;Influencer
+C0918;Katherine Christensen MD;2025/05/14;Limpopo;Google
+C0919;Jennifer Perez;2025/12/19;KwaZulu-Natal;Newsletter
+C0920;Mrs. Alison Wagner;2025/10/10;North West;Newsletter
+C0921;Matthew Johnson;2025/02/17;Northern Cape;Influencer
+C0922;Patricia Dean;2025/12/07;Northern Cape;Meta
+C0923;Mary Valdez MD;2025/08/19;Western Cape;Newsletter
+C0924;Jeremy Martinez;2025/09/25;North West;Newsletter
+C0925;Christian Neal;2025/04/09;Eastern Cape;Google
+C0926;Jason Garcia;2025/09/02;Limpopo;Meta
+C0927;Larry Taylor;2025/07/22;Gauteng;Influencer
+C0928;Kayla Williamson;2025/11/19;Northern Cape;Referral
+C0929;Brian Gonzalez;2025/04/20;Northern Cape;Influencer
+C0930;Sandra Dudley;2025/03/19;North West;Meta
+C0931;Elizabeth Williams;2025/05/20;Western Cape;Newsletter
+C0932;Melissa Castillo;2025/07/12;KwaZulu-Natal;Influencer
+C0933;Michael Meadows;2025/04/02;Limpopo;Newsletter
+C0934;Kathleen Herring;2025/11/21;Limpopo;Meta
+C0935;Misty Garcia;2025/10/30;Mpumalanga;Meta
+C0936;Joyce Madden;2025/04/10;North West;Google
+C0937;Brett Thompson;2025/04/13;Limpopo;Referral
+C0938;Heather Rhodes;2025/01/16;Free State;Meta
+C0939;Anna Chang;2025/06/15;Mpumalanga;Referral
+C0940;Charles Holland;2025/01/18;Northern Cape;Referral
+C0941;Jeffrey Howell;2025/05/08;Free State;Referral
+C0942;Jacqueline Cooper;2025/12/08;Western Cape;Google
+C0943;Victor Nelson;2025/02/14;Western Cape;Newsletter
+C0944;Karen Fisher;2025/05/30;Limpopo;Influencer
+C0945;Ashley Horton;2025/12/11;North West;Influencer
+C0946;Dr. Ashley Pruitt;2025/01/23;KwaZulu-Natal;Google
+C0947;Meghan White;2025/07/07;North West;Newsletter
+C0948;Lisa Huffman;2025/05/28;North West;Meta
+C0949;Valerie Anderson;2025/12/08;Gauteng;Meta
+C0950;Stephen Alexander Jr.;2025/12/24;KwaZulu-Natal;Influencer
+C0951;Michael Gregory;2025/09/12;Northern Cape;Referral
+C0952;Misty Walker;2025/10/26;Northern Cape;Google
+C0953;Kelly Watts;2025/09/18;North West;Google
+C0954;Matthew Wright;2025/08/29;Limpopo;Referral
+C0955;Margaret Hernandez;2025/05/15;Limpopo;Google
+C0956;Victoria Brown;2025/11/17;Mpumalanga;Referral
+C0957;Kathy Harrison;2025/09/07;Free State;Referral
+C0958;Angela Vasquez;2025/07/12;Limpopo;Referral
+C0959;Donald Hunter;2025/04/04;North West;Referral
+C0960;Jennifer Young;2025/08/02;Northern Cape;Referral
+C0961;Kenneth Miller;2025/06/28;Free State;Newsletter
+C0962;Bryan Jimenez;2025/07/13;Gauteng;Influencer
+C0963;Jamie Johnson;2025/09/11;Limpopo;Meta
+C0964;Brandon Munoz;2025/08/02;Mpumalanga;Referral
+C0965;Stefanie Hart;2025/08/29;Free State;Meta
+C0966;Tiffany Cox;2025/09/12;Northern Cape;Influencer
+C0967;Sarah Rivera;2025/01/22;Eastern Cape;Meta
+C0968;Kara Sandoval;2025/10/26;Northern Cape;Google
+C0969;Brent Hopkins;2025/10/06;North West;Referral
+C0970;Ronald Brandt;2025/01/01;Mpumalanga;Google
+C0971;Jacqueline Rodriguez;2025/04/24;Eastern Cape;Meta
+C0972;Charles Love;2025/12/15;Western Cape;Google
+C0973;David Gonzalez;2025/10/08;Gauteng;Newsletter
+C0974;Jenna Bryant;2025/02/16;Limpopo;Newsletter
+C0975;George Sherman;2025/10/31;KwaZulu-Natal;Newsletter
+C0976;Sara Chapman;2025/01/19;Eastern Cape;Newsletter
+C0977;Judith Lawrence;2025/10/27;North West;Referral
+C0978;Jonathan Moreno;2025/07/15;Northern Cape;Meta
+C0979;Jessica Richards;2025/01/19;KwaZulu-Natal;Referral
+C0980;Tammy Thompson;2025/12/25;Eastern Cape;Referral
+C0981;Robert Garcia;2025/08/13;Limpopo;Newsletter
+C0982;Sonya Gordon;2025/09/13;North West;Newsletter
+C0983;Lee Schwartz;2025/05/30;Limpopo;Google
+C0984;Victor Waller;2025/04/07;Northern Cape;Referral
+C0985;Brenda Morrison;2025/06/25;Limpopo;Referral
+C0986;Elizabeth Miles;2025/12/11;Limpopo;Influencer
+C0987;Norman Spencer;2025/12/01;Northern Cape;Google
+C0988;Marcus Roberts;2025/03/26;Eastern Cape;Influencer
+C0989;Brandi Page;2025/05/15;North West;Influencer
+C0990;Melissa Morris;2025/03/11;Eastern Cape;Influencer
+C0991;Kristina Aguilar;2025/02/14;Free State;Google
+C0992;Megan English;2025/09/17;Northern Cape;Influencer
+C0993;Ryan Stokes;2025/07/27;Northern Cape;Influencer
+C0994;James Brown;2025/07/23;North West;Influencer
+C0995;Paul Martin;2025/01/22;Free State;Meta
+C0996;Brianna Brown;2025/04/22;North West;Newsletter
+C0997;Paul Johnson;2025/11/01;Mpumalanga;Influencer
+C0998;Luis Lowe;2025/11/13;KwaZulu-Natal;Influencer
+C0999;Natalie Hoffman;2025/08/07;Gauteng;Influencer
+C1000;Rebecca Horton;2025/04/03;Western Cape;Influencer
+C1001;Tammy Hughes;2025/09/27;Northern Cape;Influencer
+C1002;Emily Arnold;2025/11/03;Northern Cape;Google
+C1003;Christina Melton;2025/01/06;Eastern Cape;Referral
+C1004;Sandra Pruitt;2025/12/01;Free State;Referral
+C1005;Holly Chapman;2025/10/01;Free State;Google
+C1006;Patty Brandt;2025/10/14;Western Cape;Referral
+C1007;William Jones;2025/04/25;Eastern Cape;Google
+C1008;Barbara Williams;2025/03/09;Gauteng;Referral
+C1009;Beverly Silva;2025/04/19;Eastern Cape;Google
+C1010;John Pineda;2025/04/10;Gauteng;Meta
+C1011;Frank Williams;2025/01/16;Mpumalanga;Influencer
+C1012;Sarah Turner;2025/12/29;Northern Cape;Meta
+C1013;Heather Bowers;2025/11/03;KwaZulu-Natal;Meta
+C1014;Tina Meyer;2025/05/04;North West;Google
+C1015;Jennifer Herrera;2025/11/02;Mpumalanga;Newsletter
+C1016;Stephen Alvarado;2025/02/05;Northern Cape;Google
+C1017;Daniel Goodwin;2025/05/09;Free State;Influencer
+C1018;Justin Goodwin;2025/07/26;Free State;Meta
+C1019;Michael Griffin;2025/09/10;Western Cape;Referral
+C1020;Tamara Sanchez;2025/12/18;Eastern Cape;Referral
+C1021;Erica Moon;2025/01/16;Gauteng;Google
+C1022;Joshua Campbell;2025/02/14;Mpumalanga;Google
+C1023;Patricia Robertson;2025/12/20;Gauteng;Newsletter
+C1024;Andrew Villanueva;2025/07/17;Northern Cape;Google
+C1025;Bradley Davis;2025/03/16;Free State;Meta
+C1026;Adrienne Jones;2025/10/28;Gauteng;Influencer
+C1027;Christy Jennings;2025/09/18;Western Cape;Influencer
+C1028;Joshua Park;2025/11/21;Free State;Newsletter
+C1029;Maria Case;2025/10/15;North West;Referral
+C1030;Allison Love;2025/10/18;Northern Cape;Google
+C1031;Anthony Bauer;2025/01/15;North West;Newsletter
+C1032;Roberto Bartlett;2025/08/05;Free State;Google
+C1033;Mark Hamilton;2025/06/08;Western Cape;Influencer
+C1034;Bryan Smith;2025/01/07;KwaZulu-Natal;Newsletter
+C1035;Nicole Richards;2025/10/07;Free State;Google
+C1036;Heather Shaw;2025/09/30;Gauteng;Influencer
+C1037;Elizabeth Miller;2025/04/23;Free State;Referral
+C1038;Jane Short;2025/10/25;Eastern Cape;Google
+C1039;Joseph Taylor;2025/01/12;Mpumalanga;Newsletter
+C1040;Sarah Phillips;2025/06/01;North West;Influencer
+C1041;Michael Sloan;2025/09/04;Western Cape;Newsletter
+C1042;Maria Bernard;2025/11/05;Western Cape;Google
+C1043;Kristen Martinez;2025/01/05;KwaZulu-Natal;Newsletter
+C1044;Jennifer Kelley;2025/01/02;Limpopo;Google
+C1045;Paul Berger;2025/02/03;Gauteng;Influencer
+C1046;Taylor York;2025/05/14;Mpumalanga;Google
+C1047;Daniel Davenport;2025/02/25;Northern Cape;Influencer
+C1048;Michael Bradley;2025/03/17;Limpopo;Influencer
+C1049;Tara Gamble;2025/01/22;Gauteng;Influencer
+C1050;Angel Powers;2025/06/29;Limpopo;Google
+C1051;Nicholas Freeman;2025/04/08;Gauteng;Meta
+C1052;Michael Young;2025/05/09;Northern Cape;Influencer
+C1053;Stephanie Stewart;2025/04/21;KwaZulu-Natal;Newsletter
+C1054;Matthew Steele;2025/06/25;North West;Influencer
+C1055;Holly Stewart;2025/03/01;Western Cape;Influencer
+C1056;Erik Floyd;2025/06/16;Limpopo;Referral
+C1057;Jessica Larsen;2025/10/04;Eastern Cape;Google
+C1058;Erin Castillo;2025/02/22;KwaZulu-Natal;Newsletter
+C1059;Eric Arnold;2025/06/22;KwaZulu-Natal;Newsletter
+C1060;Angela Ramirez;2025/03/10;Limpopo;Newsletter
+C1061;Joshua Baker;2025/11/17;North West;Newsletter
+C1062;Monica Mcclain;2025/12/11;North West;Google
+C1063;Amanda Perkins;2025/11/26;Eastern Cape;Referral
+C1064;Christy Johnson;2025/06/07;Western Cape;Referral
+C1065;Yvonne Kennedy;2025/04/12;Northern Cape;Referral
+C1066;James Vance;2025/10/29;Limpopo;Meta
+C1067;Donna Marshall;2025/08/17;Western Cape;Meta
+C1068;Jack Smith;2025/07/18;North West;Referral
+C1069;Renee Mendez;2025/04/03;Eastern Cape;Referral
+C1070;Brenda Moore;2025/03/06;North West;Google
+C1071;Mary Faulkner;2025/08/08;KwaZulu-Natal;Influencer
+C1072;Teresa Williams;2025/10/13;North West;Newsletter
+C1073;Arthur Wood Jr.;2025/10/23;Western Cape;Google
+C1074;Rebecca Hughes;2025/03/22;Northern Cape;Meta
+C1075;Anthony Hooper;2025/12/23;North West;Newsletter
+C1076;Warren Schultz;2025/05/06;Gauteng;Newsletter
+C1077;Deborah Stephens;2025/04/17;KwaZulu-Natal;Referral
+C1078;James Matthews;2025/03/09;Mpumalanga;Newsletter
+C1079;Kellie Bennett;2025/12/15;Gauteng;Referral
+C1080;Jared Roth;2025/12/19;Northern Cape;Influencer
+C1081;Mr. Larry Shaw;2025/05/14;Gauteng;Newsletter
+C1082;David Robertson;2025/02/23;Free State;Meta
+C1083;Cody Cox;2025/04/20;Eastern Cape;Referral
+C1084;Mary Perry;2025/10/06;Western Cape;Meta
+C1085;Karen Mendoza;2025/05/09;Mpumalanga;Influencer
+C1086;Maria Jenkins;2025/03/23;Western Cape;Referral
+C1087;Kenneth Martin;2025/04/05;Gauteng;Meta
+C1088;Stephanie Thomas;2025/09/02;Northern Cape;Meta
+C1089;Christopher Mullen;2025/03/06;Free State;Newsletter
+C1090;Marcia Johns;2025/08/21;KwaZulu-Natal;Google
+C1091;Diane Miller;2025/10/10;Mpumalanga;Influencer
+C1092;Kaitlin Olson;2025/06/24;Mpumalanga;Newsletter
+C1093;Lindsay Norton;2025/03/27;Mpumalanga;Newsletter
+C1094;Lisa Dixon;2025/11/15;Western Cape;Referral
+C1095;Grace Chavez;2025/03/07;KwaZulu-Natal;Influencer
+C1096;James Anderson;2025/08/18;Western Cape;Google
+C1097;Scott Gordon;2025/01/07;North West;Newsletter
+C1098;Lisa Thompson;2025/06/13;North West;Google
+C1099;Amanda Bowers;2025/12/17;Eastern Cape;Meta
+C1100;Anna Hopkins;2025/07/15;Gauteng;Influencer
+C1101;Samantha Prince;2025/12/17;Northern Cape;Referral
+C1102;Jessica Fisher;2025/10/28;Mpumalanga;Referral
+C1103;Joseph Perez;2025/12/06;Mpumalanga;Google
+C1104;Dr. Gregory Ballard;2025/11/08;Eastern Cape;Newsletter
+C1105;Melissa Davis;2025/12/19;Limpopo;Google
+C1106;Ralph Kent;2025/02/21;Free State;Google
+C1107;Shawn Ortiz;2025/02/02;Western Cape;Meta
+C1108;Patrick Smith;2025/03/15;Mpumalanga;Referral
+C1109;Adam Pena;2025/07/22;Gauteng;Google
+C1110;Jennifer Rodriguez;2025/09/25;Eastern Cape;Meta
+C1111;Dawn Wyatt;2025/06/15;Western Cape;Referral
+C1112;Lisa Braun;2025/06/14;Gauteng;Newsletter
+C1113;Jennifer Bowers;2025/06/04;Gauteng;Google
+C1114;Justin Webb;2025/07/07;Gauteng;Newsletter
+C1115;Patricia Sanders;2025/04/30;Northern Cape;Google
+C1116;Mary Adkins;2025/02/23;North West;Google
+C1117;Tiffany Garcia;2025/06/23;Gauteng;Google
+C1118;George Pierce;2025/07/17;North West;Influencer
+C1119;Amy Price;2025/09/28;Eastern Cape;Referral
+C1120;Brandon Thomas;2025/09/04;Limpopo;Referral
+C1121;Anita Baker;2025/12/26;Limpopo;Google
+C1122;Andrew Cruz;2025/05/25;Free State;Google
+C1123;Kelly Dawson;2025/06/05;North West;Google
+C1124;Raymond Thompson;2025/08/21;Mpumalanga;Influencer
+C1125;Dakota Sandoval;2025/07/11;Free State;Meta
+C1126;Chloe Bowers;2025/11/09;North West;Referral
+C1127;Crystal Jackson;2025/07/18;KwaZulu-Natal;Newsletter
+C1128;Matthew Cantrell;2025/01/15;North West;Newsletter
+C1129;Penny Gomez MD;2025/02/03;Gauteng;Influencer
+C1130;Adrian Padilla;2025/08/16;Mpumalanga;Referral
+C1131;Duane Gallegos;2025/12/23;Limpopo;Newsletter
+C1132;Hannah Ochoa;2025/12/22;Mpumalanga;Google
+C1133;Cheyenne Spears;2025/03/29;Free State;Newsletter
+C1134;Christopher Hunter;2025/08/12;KwaZulu-Natal;Referral
+C1135;Edward Arroyo;2025/08/05;Northern Cape;Google
+C1136;Deanna Medina;2025/11/08;Eastern Cape;Influencer
+C1137;Melissa Church;2025/11/05;KwaZulu-Natal;Newsletter
+C1138;Mr. Gerald Rowe;2025/08/07;Gauteng;Referral
+C1139;Kevin Johnson;2025/09/22;Mpumalanga;Newsletter
+C1140;James Kramer;2025/02/15;North West;Referral
+C1141;Crystal Stewart;2025/03/27;KwaZulu-Natal;Newsletter
+C1142;Alexandra Collier;2025/05/18;Eastern Cape;Influencer
+C1143;James Goodman;2025/04/07;Eastern Cape;Influencer
+C1144;Timothy Woods;2025/05/13;Western Cape;Newsletter
+C1145;Kenneth White;2025/05/18;Limpopo;Meta
+C1146;Susan Porter;2025/10/17;North West;Google
+C1147;David Baker;2025/03/19;Gauteng;Influencer
+C1148;David Montgomery;2025/03/31;Mpumalanga;Referral
+C1149;Barbara Miller;2025/03/02;Gauteng;Meta
+C1150;Aaron Vincent DVM;2025/09/15;Eastern Cape;Referral
+C1151;Mr. Johnathan Galloway;2025/11/26;North West;Google
+C1152;Denise White;2025/12/15;Northern Cape;Google
+C1153;Diana Walker;2025/10/24;Limpopo;Influencer
+C1154;Joseph Henderson;2025/08/12;Gauteng;Google
+C1155;Gregory Dalton;2025/07/30;Eastern Cape;Meta
+C1156;William Wolfe;2025/10/29;Northern Cape;Google
+C1157;Adam Craig;2025/06/28;Eastern Cape;Newsletter
+C1158;Erika Salazar;2025/05/28;Eastern Cape;Referral
+C1159;Dennis Adams;2025/04/11;Limpopo;Influencer
+C1160;Clinton Coleman;2025/08/27;Mpumalanga;Newsletter
+C1161;Jacqueline Dickerson;2025/06/12;North West;Influencer
+C1162;Kenneth Krause;2025/04/19;Free State;Influencer
+C1163;Brett Nelson;2025/09/24;Limpopo;Referral
+C1164;Selena Gonzalez;2025/04/02;Northern Cape;Newsletter
+C1165;Brittany Shaffer;2025/11/07;Western Cape;Newsletter
+C1166;Chad Barry;2025/03/10;Limpopo;Google
+C1167;Michelle Floyd;2025/09/02;Limpopo;Influencer
+C1168;Scott Williams;2025/04/27;Mpumalanga;Meta
+C1169;Amy Cervantes;2025/02/08;Eastern Cape;Google
+C1170;Anne Garner;2025/07/05;Gauteng;Influencer
+C1171;Justin Frederick;2025/04/11;North West;Referral
+C1172;Jason Bell;2025/04/11;Mpumalanga;Influencer
+C1173;Christina Johnston;2025/09/21;KwaZulu-Natal;Google
+C1174;Veronica Mitchell;2025/09/10;Limpopo;Google
+C1175;Katherine Doyle;2025/05/07;Mpumalanga;Referral
+C1176;Louis Ford;2025/12/12;Eastern Cape;Newsletter
+C1177;Margaret Mcfarland;2025/02/26;North West;Influencer
+C1178;Laura Sweeney;2025/06/13;Free State;Newsletter
+C1179;Greg Edwards;2025/01/28;Northern Cape;Newsletter
+C1180;Derek Newman;2025/09/11;KwaZulu-Natal;Influencer
+C1181;Priscilla Mcmillan;2025/04/16;KwaZulu-Natal;Google
+C1182;Tracie Gutierrez;2025/10/18;North West;Newsletter
+C1183;Beth Young;2025/03/13;KwaZulu-Natal;Referral
+C1184;Mercedes Miller;2025/04/08;Gauteng;Referral
+C1185;Brendan Zuniga;2025/03/06;Gauteng;Meta
+C1186;Allison Sanders;2025/07/03;Gauteng;Meta
+C1187;Ashley Montgomery MD;2025/10/25;Mpumalanga;Google
+C1188;Ellen Wright;2025/12/28;Eastern Cape;Meta
+C1189;Cameron Rose;2025/04/21;KwaZulu-Natal;Meta
+C1190;Matthew Dalton;2025/03/08;Eastern Cape;Referral
+C1191;Julie Pitts;2025/05/07;Northern Cape;Influencer
+C1192;Jeremy Montes;2025/12/30;Gauteng;Referral
+C1193;Leslie Bryant;2025/09/28;Northern Cape;Newsletter
+C1194;Kristy Mills;2025/10/18;Gauteng;Meta
+C1195;Susan Olson;2025/09/06;North West;Referral
+C1196;Jessica Diaz;2025/03/30;Mpumalanga;Meta
+C1197;Adam Mills;2025/04/11;Gauteng;Referral
+C1198;Hailey Harrison;2025/10/22;Free State;Referral
+C1199;Katherine Campos;2025/01/04;Free State;Meta
+C1200;Jeffrey Carter;2025/04/27;North West;Newsletter

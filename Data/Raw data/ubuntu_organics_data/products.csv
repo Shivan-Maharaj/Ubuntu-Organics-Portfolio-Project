@@ -1,0 +1,31 @@
+product_id,product_name,category,selling_price,product_cost,launch_date
+P001,Pre-Workout Formula,Supplements,147.52,81.87,2025-09-06
+P002,SPF 50 Sunscreen,Skincare,365.12,190.04,2025-04-17
+P003,Anti-Frizz Serum,Haircare,265.18,154.97,2025-10-14
+P004,Daily Multivitamin,Supplements,278.02,151.95,2025-12-13
+P005,Hair Growth Oil,Haircare,150.42,81.19,2025-06-13
+P006,Leave-In Hair Mist,Haircare,897.09,529.14,2025-03-26
+P007,Generic Product,Fitness Gear,1637.92,821.09,2025-01-11
+P008,Exfoliating Scrub,Skincare,1426.46,810.3,2025-09-10
+P009,SPF 50 Sunscreen,Skincare,509.1,332.29,2025-03-27
+P010,Plant-Based Protein,Supplements,276.22,143.45,2025-11-11
+P011,Generic Product,Fitness Gear,1247.08,824.85,2025-03-04
+P012,Generic Product,Apparel,1118.83,777.17,2025-04-18
+P013,Generic Product,Apparel,249.72,139.5,2025-05-11
+P014,Argan Oil Shampoo,Haircare,1782.36,1020.09,2025-02-07
+P015,Anti-Aging Night Cream,Skincare,1438.69,732.53,2025-04-13
+P016,SPF 50 Sunscreen,Skincare,1568.83,1093.54,2025-07-28
+P017,Gentle Facial Cleanser,Skincare,1746.32,1005.92,2025-08-03
+P018,Generic Product,Apparel,1307.8,749.33,2025-12-10
+P019,Generic Product,Fitness Gear,775.01,491.38,2025-10-01
+P020,Pre-Workout Formula,Supplements,1257.35,671.71,2025-03-30
+P021,Exfoliating Scrub,Skincare,410.46,236.38,2025-11-29
+P022,Volumizing Spray,Haircare,517.27,292.18,2025-04-18
+P023,Daily Multivitamin,Supplements,535.19,271.03,2025-03-05
+P024,Generic Product,Fitness Gear,862.21,442.52,2025-09-18
+P025,Scalp Detox Scrub,Haircare,1765.1,993.64,2025-09-09
+P026,Generic Product,Apparel,851.7,581.63,2025-03-08
+P027,Generic Product,Apparel,371.46,196.1,2025-03-05
+P028,Hair Growth Oil,Haircare,1124.06,729.97,2025-12-26
+P029,Generic Product,Apparel,1805.86,1047.18,2025-03-27
+P030,Vitamin C Serum,Skincare,1994.92,1052.65,2025-10-29
